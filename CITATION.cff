@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+title: Python Performance Benchmark Tool
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel
+    family-names: Izosimov
+    affiliation: Alpha Beta Network
+    orcid: 'https://orcid.org/0009-0004-7126-6743'
+    website: 'https://alphabetanet.com'
+repository-code: >-
+  https://github.com/alphabetanetcom/python-performance-benchmark-tool
+url: 'https://alphabetanet.com/'
+repository: >-
+  https://gitlab.com/alphabetanetcom/python-performance-benchmark-tool
+repository-artifact: >-
+  https://github.com/alphabetanetcom/python-performance-benchmark-tool/releases
+abstract: >-
+  The Python Performance Benchmark Tool is a comprehensive
+  command-line utility designed to benchmark the performance of
+  various unoptimized computations in pure Python. It enables
+  developers and users to analyze the computational performance
+  of different Python versions, allowing for informed decisions
+  when selecting the optimal interpreter.
+keywords:
+  - python benchmark
+  - performance optimization
+  - python testing
+  - cross platform development
+  - python tools
+  - code analysis
+  - benchmark tool
+  - python performance
+  - python versions
+  - performance testing
+version: v1.2-beta.1
+date-released: '2024-12-27'
+license-url: 'https://github.com/alphabetanetcom/python-performance-benchmark-tool/blob/main/LICENSE.md'
