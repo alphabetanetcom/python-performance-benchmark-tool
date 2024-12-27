@@ -1,0 +1,82 @@
+Date of testing: 2024-12-24 13:16:09
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.11.10 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:26) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.648781 seconds
+  Operations/second: 12,285,780.78
+  Coefficient of variation: 1.61%
+  Performance Score: 1.54
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 1.333887 seconds
+  Performance Score: 0.75
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.114506 seconds
+  Performance Score: 0.90
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 1.904991 seconds
+  Performance Score: 0.52
+
+Summary Evaluation (Higher is better): 3.713235
+
+
+Date of testing: 2024-12-24 13:21:35
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.601605 seconds
+  Operations/second: 13,278,535.62
+  Coefficient of variation: 1.12%
+  Performance Score: 1.66
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 1.215701 seconds
+  Performance Score: 0.82
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 0.903095 seconds
+  Performance Score: 1.11
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 1.788207 seconds
+  Performance Score: 0.56
+
+Summary Evaluation (Higher is better): 4.151314
+
+---
+Note: To improve your Python code performance by 60-100%, you can utilize the 
+"Python Binary Optimization Compiler Script" from Alpha Beta Network (alphabetanet.com)
+
+

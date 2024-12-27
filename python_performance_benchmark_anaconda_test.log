@@ -1,0 +1,316 @@
+Date of testing: 2024-12-24 13:12:00
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.6.13 |Anaconda, Inc.| (default, Mar 16 2021, 11:37:27) [MSC v.1916 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.806584 seconds
+  Operations/second: 9,347,023.41
+  Coefficient of variation: 13.53%
+  Performance Score: 1.24
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 2.383864 seconds
+  Performance Score: 0.42
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.477196 seconds
+  Performance Score: 0.68
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 1.881664 seconds
+  Performance Score: 0.53
+
+Summary Evaluation (Higher is better): 2.867686
+
+
+Date of testing: 2024-12-24 13:12:30
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.7.16 (default, Jan 17 2023, 16:06:28) [MSC v.1916 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.932984 seconds
+  Operations/second: 8,546,330.75
+  Coefficient of variation: 1.32%
+  Performance Score: 1.07
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 2.059310 seconds
+  Performance Score: 0.49
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.519559 seconds
+  Performance Score: 0.66
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 1.858048 seconds
+  Performance Score: 0.54
+
+Summary Evaluation (Higher is better): 2.753714
+
+
+Date of testing: 2024-12-24 13:13:08
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.8.20 (default, Oct  3 2024, 15:19:54) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 1.346117 seconds
+  Operations/second: 5,944,829.40
+  Coefficient of variation: 0.50%
+  Performance Score: 0.74
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 2.687183 seconds
+  Performance Score: 0.37
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.847840 seconds
+  Performance Score: 0.54
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 2.143302 seconds
+  Performance Score: 0.47
+
+Summary Evaluation (Higher is better): 2.122756
+
+
+Date of testing: 2024-12-24 13:13:50
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.9.20 (main, Oct  3 2024, 07:38:01) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.693025 seconds
+  Operations/second: 11,484,859.82
+  Coefficient of variation: 1.53%
+  Performance Score: 1.44
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 1.629292 seconds
+  Performance Score: 0.61
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.164734 seconds
+  Performance Score: 0.86
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 1.454710 seconds
+  Performance Score: 0.69
+
+Summary Evaluation (Higher is better): 3.602700
+
+
+Date of testing: 2024-12-24 13:15:11
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.10.15 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:19) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 1.347311 seconds
+  Operations/second: 5,936,112.50
+  Coefficient of variation: 0.48%
+  Performance Score: 0.74
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 2.739638 seconds
+  Performance Score: 0.37
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.726959 seconds
+  Performance Score: 0.58
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 2.198494 seconds
+  Performance Score: 0.45
+
+Summary Evaluation (Higher is better): 2.141140
+
+
+Date of testing: 2024-12-24 13:16:09
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.11.10 | packaged by Anaconda, Inc. | (main, Oct  3 2024, 07:22:26) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.648781 seconds
+  Operations/second: 12,285,780.78
+  Coefficient of variation: 1.61%
+  Performance Score: 1.54
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 1.333887 seconds
+  Performance Score: 0.75
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.114506 seconds
+  Performance Score: 0.90
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 1.904991 seconds
+  Performance Score: 0.52
+
+Summary Evaluation (Higher is better): 3.713235
+
+
+Date of testing: 2024-12-24 13:16:42
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.672228 seconds
+  Operations/second: 11,857,108.91
+  Coefficient of variation: 1.30%
+  Performance Score: 1.49
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 1.409475 seconds
+  Performance Score: 0.71
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.160527 seconds
+  Performance Score: 0.86
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 2.361665 seconds
+  Performance Score: 0.42
+
+Summary Evaluation (Higher is better): 3.482182
+
+
+Date of testing: 2024-12-24 13:17:12
+System Information
+============================================================
+Operating System: Windows (64bit)
+Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel
+Python Version: 3.13.0 | packaged by Anaconda, Inc. | (main, Oct  7 2024, 21:21:52) [MSC v.1929 64 bit (AMD64)]
+============================================================
+
+Starting benchmark...
+
+Benchmark Summary
+============================================================
+
+Matrix Multiplication Results:
+Size 200x200:
+  Median time: 0.655199 seconds
+  Operations/second: 12,176,030.33
+  Coefficient of variation: 0.81%
+  Performance Score: 1.53
+
+Recursive Fibonacci Results:
+n=35:
+  Time taken: 1.516788 seconds
+  Performance Score: 0.66
+
+Bubble Sort Results:
+List size 5000:
+  Time taken: 1.095674 seconds
+  Performance Score: 0.91
+
+Prime Number Generation Results:
+Limit 30000:
+  Primes found: 3245
+  Time taken: 2.412412 seconds
+  Performance Score: 0.41
+
+Summary Evaluation (Higher is better): 3.512745
+
+---
+Note: To improve your Python code performance by 60-100%, you can utilize the 
+"Python Binary Optimization Compiler Script" from Alpha Beta Network (alphabetanet.com)
+
+
