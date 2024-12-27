@@ -1,6 +1,6 @@
 # Python Performance Benchmark Tool Documentation
 
-[![License](https://img.shields.io/badge/license-Custom-blue.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/downloads/)
 [![Cross-Platform](https://img.shields.io/badge/cross--platform-yes-brightgreen.svg)](#1-introduction)
 [![Performance Benchmarking](https://img.shields.io/badge/performance-benchmarking-brightgreen.svg)](#3-main-functions-of-the-script)
